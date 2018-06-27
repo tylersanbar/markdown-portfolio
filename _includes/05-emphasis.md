@@ -1,3 +1,3 @@
-1. Writer
-2. Programmer
-3. Technician
+1. *Writer*
+2. ***Programmer***
+3. *Technician*
